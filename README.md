@@ -1,5 +1,7 @@
 # meshguard-go
 
+> **Maintenance mode:** this SDK remains supported for security patches, bug fixes, and compatibility. New agent-governance features are moving to AGT + MeshGuard. Existing Go integrations can continue using this client; new governance features should be evaluated through the MeshGuard control plane and AGT-compatible policy path.
+
 Go SDK for the [MeshGuard](https://meshguard.app) governance gateway.
 
 ## Installation
